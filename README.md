@@ -1,4 +1,4 @@
-phasiRNAClassifier - This is repository provides scripts for 1) generating features  and 2) classifying reproductive phasiRNAs from other smallRNAs.
+phasiRNAClassifier - A machine learning repository providing scripts for 1) generating sequence and structural features  and 2) classifying reproductive phased, secondary, small interfering RNAs (phasiRNAs) from other smallRNAs.
 ---
 
 version: v1  
