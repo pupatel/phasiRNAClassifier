@@ -389,7 +389,7 @@ if __name__ == '__main__':
     main(negativeSet_file,NEG_out_file_name,NEG_classvalue,k_values)
 
     print ("Merging Features Files")
-    FINALFILE_NAME= "FinalDataset.txt"
+    FINALFILE_NAME= "Features.txt"
     concateFiles(POS_out_file_name,NEG_out_file_name,FINALFILE_NAME)
     
     # removing files
