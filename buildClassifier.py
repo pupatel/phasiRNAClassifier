@@ -34,7 +34,7 @@ Best_k_features=250 # Number of features to select using Information gain
 
 
 # - - - - - G L O B A L   V A R I A B L E S   F O R   I N P U T    A N D    O U T P U T    F I L E S   - - - - - -
-InputFile='EQUAL_rice_maize_21_vs_miR_rice_NEW_FEATURES_ADDED_k=1to5.csv'
+InputFile='Features.csv'
 OutputFile="Performance_Report.txt"
 FeatureSet = pd.read_csv(InputFile,sep=',')
 
