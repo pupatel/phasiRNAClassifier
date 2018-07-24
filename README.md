@@ -3,7 +3,8 @@ phasiRNAClassifier - A machine learning repository providing scripts for 1) gene
 
 version: v1  
 updated: 02/24/2018  
-citation: [Preprint-Copy](https://www.biorxiv.org/content/early/2018/01/07/242727)
+published: [New Phytologist] (https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15349)
+
 
 Please refer to the [wiki](https://github.com/pupatel/phasiRNAClassifier/wiki) page for the overview of this classification pipeline along with the detailed information about scripts, installing dependencies, usage, and output files.
 
